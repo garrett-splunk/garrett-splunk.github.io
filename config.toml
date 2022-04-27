@@ -1,0 +1,5 @@
+baseURL = 'https://garrett-splunk.github.io/'
+languageCode = 'en-us'
+title = 'My New Hugo Site TEST'
+theme = "ananke"
+publishDir = './'
